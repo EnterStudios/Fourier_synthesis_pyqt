@@ -4,7 +4,7 @@ A python program for periodic signal synthesis using Fourier Series. This Python
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/vincentchoqueuse/Fourier_synthesis_pyqt/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/vincentchoqueuse/Fourier_synthesis_pyqt/master/screenshot.jpg)
 
 ## Requirements
 
