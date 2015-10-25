@@ -9,8 +9,8 @@ class Window(QtGui.QDialog):
     def __init__(self, parent=None):
         super(Window, self).__init__(parent)
         
-        #create inputs and add to UI
-        groupBox1= QtGui.QGroupBox("Signal Parameter")
+        #create inputs and add them to UI
+        groupBox1= QtGui.QGroupBox("Signal Parameters")
         form = QtGui.QFormLayout()
         form_ui_label=["f0","a0","a1","b1","a2","b2","a3","b3","a4","b4","a5","b5","a6","b6"]
         
