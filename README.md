@@ -1,6 +1,8 @@
 # Fourier_synthesis_pyqt
 
-A python program for periodic signal synthesis using Fourier Series. This Python program uses PyQT for the GUI and Matplotlib.
+A python program for periodic signal synthesis using Fourier Series. It can be used to illustrate the Fourier Decomposition in mathematical courses.
+
+This Python program uses PyQT and Matplotlib for the GUI.
 
 ## Screenshot
 
